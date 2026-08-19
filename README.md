@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chintha%20Deepak&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Autonomous%20Systems%20Developer&descAlignY=55&descSize=20&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chintha%20Deepak&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Autonomous%20Systems%20Developer&descAlignY=55&descSize=20&descColor=8892B0" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Initializing+AEGIS+Core...;AI+%26+Autonomous+Systems+Developer;Building+systems+that+perceive%2C+reason%2C+and+act.;Currently+exploring+Agentic+AI+%26+Autonomous+Driving" alt="Typing SVG" />
@@ -21,14 +21,14 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ChinthaDeepak96&label=Profile%20Views&color=38BDF8&style=flat-square" />
-<img src="https://img.shields.io/github/followers/ChinthaDeepak96?label=Followers&style=flat-square&color=7C6FF0&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=ChinthaDeepak96&label=Profile%20Views&color=38BDF8&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ChinthaDeepak96?label=Followers&style=flat-square&color=7C6FF0&labelColor=1a1a2e" alt="followers"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=footer&animation=fadeIn" width="100%" alt="divider"/>
 
 </div>
 
-<br/>
-
-## 📡 About Me
+## `02` · About Me
 
 I'm an aspiring **AI & Autonomous Systems Engineer** who started out building web applications and gradually moved toward **Artificial Intelligence, computer vision, robotics, and intelligent mobility**. I like turning complex ideas — perception, decision-making, autonomy — into systems that actually run.
 
@@ -39,35 +39,37 @@ My work currently centers around two major builds:
 
 I'm especially drawn to the engineering challenges that show up once AI moves off the screen and into systems that have to sense, decide, and act in the real world.
 
-<br/>
-
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 **Status** | 7th Semester — Final Year Undergraduate |
-| 💼 **Experience** | Robotics Engineer Intern @ **Epson India** (1 month) |
-| 📍 **Location** | Bengaluru, Karnataka, India |
-| 🟢 **Availability** | Actively seeking full-time opportunities |
-| 🎯 **Focus** | AI • Autonomous Systems • Robotics • Computer Vision |
+```text
+┌─────────────────────────────────────────────────────────┐
+│ AEGIS//USER_PROFILE.sys                                 │
+├─────────────────────────────────────────────────────────┤
+│ STATUS     : Actively seeking full-time opportunities   │
+│ STAGE      : 7th Semester -- Final Year Undergraduate   │
+│ EXPERIENCE : Robotics Engineer Intern @ Epson India     │
+│ LOCATION   : Bengaluru, Karnataka, India                │
+│ FOCUS      : AI / Autonomy / Robotics / Comp. Vision    │
+└─────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=header&animation=fadeIn" width="100%" alt="divider"/>
 
 </div>
 
-<br/>
-
-## 🧠 Tech Stack & Skills
+## `03` · Tech Stack & Skills
 
 <div align="center">
 
 **Artificial Intelligence & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn" alt="AI/ML stack"/>
 
 <br/><br/>
 
 **Autonomous Systems & Robotics**
 
-<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" alt="robotics stack"/>
 <img src="https://img.shields.io/badge/CARLA_Simulator-000000?style=flat-square&logo=unrealengine&logoColor=white" />
 <img src="https://img.shields.io/badge/ADAS-000000?style=flat-square&color=203A43" />
 
@@ -75,40 +77,59 @@ I'm especially drawn to the engineering challenges that show up once AI moves of
 
 **Application Development**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap" alt="web dev stack"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="database stack"/>
 
 <br/><br/>
 
 **Engineering & Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,aws" alt="tools stack"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=footer&animation=fadeIn" width="100%" alt="divider"/>
 
 </div>
 
-<br/>
+## `04` · GitHub Analytics
 
-## 📊 GitHub Analytics
+<div align="center"><sub>SYSTEM TELEMETRY — LIVE FEED</sub></div>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChinthaDeepak96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaDeepak96&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=70&section=header&text=RUNNING+DIAGNOSTICS...&fontSize=16&fontColor=38BDF8&animation=twinkling&fontAlignY=55" width="100%" alt="running diagnostics"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinthaDeepak96&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChinthaDeepak96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaDeepak96&layout=compact&theme=tokyonight&hide_border=true" width="34%" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinthaDeepak96&theme=tokyonight&hide_border=true" width="70%" alt="streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinthaDeepak96&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChinthaDeepak96&theme=nord&no-frame=true&column=4&margin-w=10&margin-h=10" width="95%" alt="GitHub trophies"/>
 
 </div>
 
-<br/>
+<sub>Activity graph and trophies update automatically — no setup needed beyond your username.</sub>
 
-## 🐍 Contribution Graph
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=header&animation=fadeIn" width="100%" alt="divider"/>
+</div>
+
+## `05` · Contribution Graph
 
 <div align="center">
 
@@ -159,16 +180,24 @@ Push it once and the snake will render automatically going forward.
 
 </details>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=footer&animation=fadeIn" width="100%" alt="divider"/>
+</div>
 
-## 🚀 Featured Projects
+## `06` · Featured Projects
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=70&section=header&text=DEPLOYING+MODULES...&fontSize=16&fontColor=38BDF8&animation=twinkling&fontAlignY=55" width="100%" alt="deploying modules"/>
+</div>
+<br/>
 
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
 
 ### 🧬 A.E.G.I.S.
-**Personal AI Assistant & Intelligent Computing Architecture**
+
+> Personal AI Assistant & Intelligent Computing Architecture
 
 A modular intelligent system built to understand information, reason over tasks, make decisions, interact with external tools, and automate workflows — architected around multiple operational layers so it can evolve from a conventional assistant into a broader autonomous computing platform.
 
@@ -191,7 +220,8 @@ A modular intelligent system built to understand information, reason over tasks,
 <td width="100%" valign="top">
 
 ### 🚗 Adaptive AI-Driven Intelligent Mobility System
-**Advanced ADAS & Autonomous Driving — Capstone Project**
+
+> Advanced ADAS & Autonomous Driving — Capstone Project
 
 A research and engineering project developing an adaptive mobility system that combines ADAS with autonomous driving capability — using AI to perceive the surrounding environment, interpret driving conditions, plan paths, and control vehicle behavior inside a simulated environment before any real-world deployment is considered.
 
@@ -214,7 +244,8 @@ A research and engineering project developing an adaptive mobility system that c
 <td width="100%" valign="top">
 
 ### 👁️ AI & Computer Vision Project
-**Intelligent Visual Processing System**
+
+> Intelligent Visual Processing System
 
 An AI-powered computer vision project focused on intelligent image-processing pipelines, integrating trained models into a functional application through a real backend service and interface.
 
@@ -234,9 +265,11 @@ An AI-powered computer vision project focused on intelligent image-processing pi
 
 > **Note:** Swap the `GitHub` / `Demo` buttons above with your actual repository and deployment links once available.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=header&animation=fadeIn" width="100%" alt="divider"/>
+</div>
 
-## 📚 Currently Learning
+## `07` · Currently Learning
 
 <div align="center">
 
@@ -254,9 +287,11 @@ An AI-powered computer vision project focused on intelligent image-processing pi
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=40&section=footer&animation=fadeIn" width="100%" alt="divider"/>
+</div>
 
-## 🏆 Achievements & Milestones
+## `08` · Achievements & Milestones
 
 <div align="center">
 
@@ -268,15 +303,29 @@ An AI-powered computer vision project focused on intelligent image-processing pi
 | 🎮 **CARLA** | Autonomous driving simulation environment setup and experimentation |
 | 💼 **Epson India** | Robotics Engineer Internship (1 month) |
 
-**On the way:** Certifications • Hackathons • Technical competitions • Research publications • Open-source contributions • Project awards
+**On the horizon**
+
+- [ ] Certifications
+- [ ] Hackathons & technical competitions
+- [ ] Research publications
+- [ ] Open-source contributions
+- [ ] Project awards
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=70&section=header&text=ESTABLISHING+UPLINK...&fontSize=16&fontColor=38BDF8&animation=twinkling&fontAlignY=55" width="100%" alt="establishing uplink"/>
+</div>
 
-## 📫 Let's Build Intelligent Systems
+## `09` · Let's Build Intelligent Systems
 
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=8892B0&center=true&vCenter=true&width=550&lines=%3E+whoami;Chintha+Deepak+-+open+to+opportunities;%3E+./connect.sh+--target+recruiter" alt="Typing SVG" />
+</a>
+
+<br/>
 
 I'm interested in opportunities in **Artificial Intelligence, autonomous systems, robotics, computer vision, and intelligent mobility.** Whether it's an intelligent application, an autonomous system, or a hard engineering problem — I'd like to hear about it.
 
@@ -289,7 +338,9 @@ I'm interested in opportunities in **Artificial Intelligence, autonomous systems
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer" width="100%"/>
+## `10` · Footer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer" width="100%" alt="footer"/>
 
 <div align="center">
 <sub><b>Chintha Deepak</b> · AI &amp; Autonomous Systems Developer · Bengaluru, India</sub>
